@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1322190208 source:/home/r3dux/Code/Sockets/7b - SocketClient-Rewrite/Main.cpp
+	<iostream>
+	<string>
+	<SDL/SDL_net.h>
+	"ClientSocket.h"
+
+1322194678 /home/r3dux/Code/Sockets/7b - SocketClient-Rewrite/ClientSocket.h
+	<iostream>
+	<string>
+	<sstream>
+	<SDL/SDL_net.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	"SocketException.h"
+
+1322173869 /home/r3dux/Code/Sockets/7b - SocketClient-Rewrite/SocketException.h
+	<string>
+
+1322189821 source:/home/r3dux/Code/Sockets/7b - SocketClient-Rewrite/ClientSocket.cpp
+	"ClientSocket.h"
+
+1322108206 source:/home/r3dux/Desktop/7b - SocketClient-Rewrite/Main.cpp
+	<iostream>
+	<string>
+	<SDL/SDL_net.h>
+	"ClientSocket.h"
+
+1322108442 /home/r3dux/Desktop/7b - SocketClient-Rewrite/ClientSocket.h
+	<iostream>
+	<string>
+	<sstream>
+	<SDL/SDL_net.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	"SocketException.h"
+
+1322020464 /home/r3dux/Desktop/7b - SocketClient-Rewrite/SocketException.h
+	<string>
+
+1322108390 source:/home/r3dux/Desktop/7b - SocketClient-Rewrite/ClientSocket.cpp
+	"ClientSocket.h"
+
